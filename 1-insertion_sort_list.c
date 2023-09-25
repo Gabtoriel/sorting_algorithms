@@ -1,6 +1,5 @@
 #include "sort.h"
 
-
 /**
  * swap - swaps nodes in a list
  *
